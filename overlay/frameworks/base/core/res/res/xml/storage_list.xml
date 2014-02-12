@@ -45,6 +45,7 @@
     <!-- external sd card -->
     <storage android:mountPoint="/storage/sdcard1"
              android:storageDescription="@string/storage_sd_card"
+             android:allowMassStorage="true"
              android:primary="false"
              android:removable="true" />
 
