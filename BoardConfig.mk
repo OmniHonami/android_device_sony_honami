@@ -27,7 +27,7 @@ BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/sony/honami/bluetooth
 
 # Kernel properties
 TARGET_KERNEL_CONFIG := omni_rhine_honami_row_defconfig
-TARGET_KERNEL_CUSTOM_TOOLCHAIN := linaro-arm-eabi-4.7/bin/arm-eabi-
+TARGET_KERNEL_CUSTOM_TOOLCHAIN := linaro-arm-eabi-4.7
 TARGET_GCC_VERSION := 4.7
 
 # Partition information
